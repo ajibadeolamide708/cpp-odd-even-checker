@@ -1,0 +1,6 @@
+# Compiled program files
+oddeven
+oddeven.exe
+*.exe
+*.out
+*.o
